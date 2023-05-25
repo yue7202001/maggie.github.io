@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\content",
+    "\\content\\post",
+    "\\data",
+    "\\layouts",
+    "\\public",
+    "\\static",
+    "\\themes",
+    "\\themes\\even",
+    "\\themes\\even\\exampleSite"
+  ],
+  "SelectedNode": "\\hugo.toml",
+  "PreviewInSolutionExplorer": false
+}
